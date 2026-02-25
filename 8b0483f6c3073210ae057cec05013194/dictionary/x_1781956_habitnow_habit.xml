@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1eb5cfbac3073210ae057cec05013137" label="Habit" max_length="40" name="x_1781956_habitnow_habit" type="collection">
+        <element label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2026-02-24 00:56:07</last_registered_on>
+        <send_badge_count>true</send_badge_count>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-23 22:50:24</sys_created_on>
+        <sys_id>47a475f8c31b7a10ae057cec050131c1</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>8A1E6D25469F67B0562F07FB0AFFA2529BD6E8D546A4DCEFE27A43761807D006</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_47a475f8c31b7a10ae057cec050131c1</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-24 00:56:07</sys_updated_on>
+        <sys_user_id display_value="larra lapid">077be676c3433210ae057cec050131c6</sys_user_id>
+        <token>8A1E6D25469F67B0562F07FB0AFFA2529BD6E8D546A4DCEFE27A43761807D006</token>
+    </sys_push_notif_app_install>
+</record_update>

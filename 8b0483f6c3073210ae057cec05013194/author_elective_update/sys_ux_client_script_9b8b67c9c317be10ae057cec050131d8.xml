@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Home default">6f251a27c3c33210ae057cec050131f7</macroponent>
+        <name>icon_1/now_default/icon</name>
+        <preset/>
+        <required_translations>[]</required_translations>
+        <script><![CDATA[function evaluateProperty({api, helpers}) {
+  const currentHabitId = api.context.repeater_1.item.value.habit.value;
+  const currentDate = api.item.date;
+  const tasks = api.data.this_week_habit_task.results || [];
+
+  return 'circle-outline';
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-25 03:24:05</sys_created_on>
+        <sys_id>9b8b67c9c317be10ae057cec050131d8</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>icon_1/now_default/icon</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_ux_client_script_9b8b67c9c317be10ae057cec050131d8</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-25 04:28:31</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="habitNow">8b0483f6c3073210ae057cec05013194</application>
+        <file_path/>
+        <instance_id>e82881731b824e5432182f8dee4bcb12</instance_id>
+        <instance_name>dev270670</instance_name>
+        <name>sys_ux_client_script_9b8b67c9c317be10ae057cec050131d8</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;controller_preset/&gt;&lt;includes/&gt;&lt;macroponent display_value="Home default"&gt;6f251a27c3c33210ae057cec050131f7&lt;/macroponent&gt;&lt;name&gt;icon_1/now_default/icon&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[function evaluateProperty({api, helpers}) {
+  const currentHabitId = api.context.repeater_1.item.value.habit.value;
+  const currentDate = api.item.date;
+  const tasks = api.data.this_week_habit_task.results || [];
+
+  return 'circle-outline';
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;larra&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-02-25 03:24:05&lt;/sys_created_on&gt;&lt;sys_id&gt;9b8b67c9c317be10ae057cec050131d8&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;icon_1/now_default/icon&lt;/sys_name&gt;&lt;sys_package display_value="habitNow" source="x_1781956_habitnow"&gt;8b0483f6c3073210ae057cec05013194&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="habitNow"&gt;8b0483f6c3073210ae057cec05013194&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_9b8b67c9c317be10ae057cec050131d8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;larra&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-02-25 04:28:31&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1317218283</payload_hash>
+        <record_name>icon_1/now_default/icon</record_name>
+        <reverted_from/>
+        <source>eac48b3ac3073210ae057cec0501316e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-25 04:28:31</sys_created_on>
+        <sys_id>bdabc851c35bbe10ae057cec050131e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c930e43cc0000001</sys_recorded_at>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-25 04:28:31</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>bdabc851c65bbe10d1a3a9c303d986e7</update_guid>
+        <update_guid_history>bdabc851c65bbe10d1a3a9c303d986e7:-1317218283,564b4811ea5bbe1072eca0089e34a7f0:-643884051,6e2b4411c05bbe104db4bb7e466adc7e:-1423956211,752b44114a5bbe1032d8a61b23e91320:1794543771,403a809d451bbe105eea7d320ed520e6:-1456914564,07d9405db41bbe10ce9415d9d35b2a0d:1794543771,8fa9481ded1bbe10124ada670553d766:-643884051,bdec774dcf97be10e34920b9d35f29b5:-1722279523</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-25 04:28:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>7494f647192d4fc4bc442b0f76c881c4</sys_id>
+        <sys_metadata>9b8b67c9c317be10ae057cec050131d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon_1/now_default/icon</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_scope_delete display_value="">070331d82bfe4355806d24ace2ac3869</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_9b8b67c9c317be10ae057cec050131d8</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_9b8b67c9c317be10ae057cec050131d8">bdabc851c35bbe10ae057cec050131e8</sys_update_version>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-25 04:28:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

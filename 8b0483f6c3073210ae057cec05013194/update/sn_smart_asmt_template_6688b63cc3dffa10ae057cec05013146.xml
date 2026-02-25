@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_smart_asmt_template">
+    <sn_smart_asmt_template action="INSERT_OR_UPDATE">
+        <assessment_name>test asessment</assessment_name>
+        <assessment_reader_role/>
+        <category>ba383ef8c3dffa10ae057cec0501311b</category>
+        <description/>
+        <instructions/>
+        <name>test asessment</name>
+        <published>false</published>
+        <published_on>2026-02-24 11:49:27</published_on>
+        <purpose display_value="test smart assessment">ba383ef8c3dffa10ae057cec0501311b</purpose>
+        <retired>false</retired>
+        <retired_on/>
+        <sys_class_name>sn_smart_asmt_template</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-24 03:46:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>6688b63cc3dffa10ae057cec05013146</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>test asessment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sn_smart_asmt_template_6688b63cc3dffa10ae057cec05013146</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-24 03:51:55</sys_updated_on>
+    </sn_smart_asmt_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=6688b63cc3dffa10ae057cec05013146"/>
+</record_update>

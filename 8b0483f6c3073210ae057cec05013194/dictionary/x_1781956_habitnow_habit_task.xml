@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e8aa2f09c317be10ae057cec05013116" extends="task" label="Habit Task" max_length="40" name="x_1781956_habitnow_habit_task" type="collection">
+        <element label="Tracked habit" max_length="32" name="tracked_habit" reference="x_1781956_habitnow_habit_m2m_tracker" type="reference"/>
+    </element>
+</database>

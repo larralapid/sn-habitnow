@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code>playbook_179e06b7c343b210ae057cec050131bb</code>
+        <commented_message/>
+        <key>Is daily habit?</key>
+        <language>en</language>
+        <message>Is daily habit?</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-20 22:41:40</sys_created_on>
+        <sys_id>8ae55a77c383b210ae057cec0501315d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Is daily habit?</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_ui_message_8ae55a77c383b210ae057cec0501315d</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-20 22:41:40</sys_updated_on>
+    </sys_ui_message>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>nbMPqymGDHbIUkD79Vz3L5uM4634wxZSMH7YnBaIZTg=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1781956_habitnow.habit_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>habit_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>adam</sys_created_by>
+        <sys_created_on>2026-02-17 23:43:47</sys_created_on>
+        <sys_id>a6578336c3073210ae057cec05013117</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1781956_habitnow.habit_user</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_user_role_a6578336c3073210ae057cec05013117</sys_update_name>
+        <sys_updated_by>adam</sys_updated_by>
+        <sys_updated_on>2026-02-17 23:43:47</sys_updated_on>
+    </sys_user_role>
+</record_update>

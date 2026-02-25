@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-23 23:29:53</sys_created_on>
+        <sys_id>e1bdf5b4c39b7a10ae057cec050131d4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>{{ab2cba4687103300a785940307cb0b28}}'s habits</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_e1bdf5b4c39b7a10ae057cec050131d4</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-24 01:01:38</sys_updated_on>
+        <text>{{ab2cba4687103300a785940307cb0b28}}'s habits</text>
+        <variables>ab2cba4687103300a785940307cb0b28</variables>
+    </sys_sg_applet_launcher_header>
+</record_update>

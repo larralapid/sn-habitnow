@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8de512a7c3c33210ae057cec050131ad" label="Tracker" max_length="40" name="x_1781956_habitnow_tracker" type="collection">
+        <element default="javascript:gs.now();" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="Start Date" max_length="40" name="start_date" type="glide_date" use_dynamic_default="true"/>
+        <element default="javascript:var gd = new GlideDate(); gd.addDaysLocalTime(30); gd.getValue();" label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Owner" max_length="32" name="owner" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="owner"/>
+        </index>
+    </element>
+</database>

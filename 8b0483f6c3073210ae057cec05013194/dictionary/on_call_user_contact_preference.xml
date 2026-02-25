@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="domain_master=on_call_user_preference" db_object_id="bb755cdd791a32108bb291bde809c9db" label="On-Call User Contact Preference" max_length="40" name="on_call_user_contact_preference" type="collection">
+        <element attributes="array=denormalized,no_sort=true,slushbucket_ref_no_expand=true" hint="List of Mobile push notification sources that has to be contacted in case of escalation for specified contact attempt" label="Mobile push notification" max_length="1024" name="mobile_notification" reference="sys_on_call_contact_source" reference_qual="source_type=mobile_notification" type="glide_list"/>
+    </element>
+</database>

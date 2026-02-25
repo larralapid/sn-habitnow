@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <creation_method/>
+        <description>a habit tracked by a user</description>
+        <name>Tracked habit</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-24 00:03:07</sys_created_on>
+        <sys_id>14558238c3db7a10ae057cec050131f2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Tracked habit</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_sg_view_config_14558238c3db7a10ae057cec050131f2</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-24 00:05:18</sys_updated_on>
+        <table>x_1781956_habitnow_habit_m2m_tracker</table>
+        <template display_value="Article Category Template">61c8822b77301110ae0b557dcd5a99e0</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=14558238c3db7a10ae057cec050131f2"/>
+</record_update>

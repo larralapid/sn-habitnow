@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Tracker</name>
+        <order>100</order>
+        <roles>x_1781956_habitnow.tracker_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-20 04:10:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b497566bc3c33210ae057cec050131ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tracker</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_app_application_b497566bc3c33210ae057cec050131ed</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-20 04:10:28</sys_updated_on>
+        <title>Tracker</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

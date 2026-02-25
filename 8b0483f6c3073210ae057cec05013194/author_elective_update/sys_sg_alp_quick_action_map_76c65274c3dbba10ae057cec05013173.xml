@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="DELETE">
+        <applet_launcher display_value="">d59c3df0c39b7a10ae057cec050131dd</applet_launcher>
+        <order/>
+        <quick_action_button/>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-24 01:19:28</sys_created_on>
+        <sys_id>76c65274c3dbba10ae057cec05013173</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_76c65274c3dbba10ae057cec05013173</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-24 01:19:28</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="habitNow">8b0483f6c3073210ae057cec05013194</application>
+        <file_path/>
+        <instance_id>e82881731b824e5432182f8dee4bcb12</instance_id>
+        <instance_name>dev270670</instance_name>
+        <name>sys_sg_alp_quick_action_map_76c65274c3dbba10ae057cec05013173</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map"><sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE"><applet_launcher display_value="">d59c3df0c39b7a10ae057cec050131dd</applet_launcher><order/><quick_action_button/><sys_class_name>sys_sg_alp_quick_action_map</sys_class_name><sys_created_by>larra</sys_created_by><sys_created_on>2026-02-24 01:19:28</sys_created_on><sys_id>76c65274c3dbba10ae057cec05013173</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package><sys_policy/><sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope><sys_update_name>sys_sg_alp_quick_action_map_76c65274c3dbba10ae057cec05013173</sys_update_name><sys_updated_by>larra</sys_updated_by><sys_updated_on>2026-02-24 01:19:28</sys_updated_on></sys_sg_alp_quick_action_map></record_update>]]></payload>
+        <payload_hash>1871544932</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>eac48b3ac3073210ae057cec0501316e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-24 01:22:12</sys_created_on>
+        <sys_id>fe671a70c31fba10ae057cec0501317b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c8d3d53080000001</sys_recorded_at>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-24 01:22:12</sys_updated_on>
+        <type>Quick actions menu</type>
+        <update_guid>7ec652747ddbba100b5c3eeddf613d76</update_guid>
+        <update_guid_history>7ec652747ddbba100b5c3eeddf613d76:1126134157,7ec652747ddbba100b5c3eeddf613d76:1126134157</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-24 01:33:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_alp_quick_action_map">sys_sg_alp_quick_action_map</sys_db_object>
+        <sys_id>5206b2b94b70442e9ae8c12d98aa4784</sys_id>
+        <sys_metadata>76c65274c3dbba10ae057cec05013173</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_scope_delete display_value="">070331d82bfe4355806d24ace2ac3869</sys_scope_delete>
+        <sys_update_name>sys_sg_alp_quick_action_map_76c65274c3dbba10ae057cec05013173</sys_update_name>
+        <sys_update_version display_value="sys_sg_alp_quick_action_map_76c65274c3dbba10ae057cec05013173">fe671a70c31fba10ae057cec0501317b</sys_update_version>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-24 01:33:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

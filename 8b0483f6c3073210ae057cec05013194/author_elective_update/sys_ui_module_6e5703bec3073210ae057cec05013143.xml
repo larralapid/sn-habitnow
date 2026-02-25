@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Check In Template">a25703bec3073210ae057cec0501313f</application>
+        <filter/>
+        <name>Check In Templates</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1781956_habitnow.check_in_template_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-17 23:43:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6e5703bec3073210ae057cec05013143</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check In Templates</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_ui_module_6e5703bec3073210ae057cec05013143</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-17 23:43:47</sys_updated_on>
+        <table>x_1781956_habitnow_check_in_template</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="habitNow">8b0483f6c3073210ae057cec05013194</application>
+        <file_path/>
+        <instance_id>e82881731b824e5432182f8dee4bcb12</instance_id>
+        <instance_name>dev270670</instance_name>
+        <name>sys_ui_module_6e5703bec3073210ae057cec05013143</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Check In Template">a25703bec3073210ae057cec0501313f</application><filter/><name>Check In Templates</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1781956_habitnow.check_in_template_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>larra</sys_created_by><sys_created_on>2026-02-17 23:43:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6e5703bec3073210ae057cec05013143</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Check In Templates</sys_name><sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package><sys_policy/><sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope><sys_update_name>sys_ui_module_6e5703bec3073210ae057cec05013143</sys_update_name><sys_updated_by>larra</sys_updated_by><sys_updated_on>2026-02-17 23:43:47</sys_updated_on><table>x_1781956_habitnow_check_in_template</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1912130435</payload_hash>
+        <record_name>Check In Templates</record_name>
+        <reverted_from/>
+        <source>eac48b3ac3073210ae057cec0501316e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-17 23:43:47</sys_created_on>
+        <sys_id>6a5703bec3073210ae057cec05013154</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c6dfd10bb0000001</sys_recorded_at>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-17 23:43:47</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2a5703be4f073210aacbd77cb7027353</update_guid>
+        <update_guid_history>2a5703be4f073210aacbd77cb7027353:1912130435</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-20 04:11:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>8fe0413972c54d0e89e07f3dd4924924</sys_id>
+        <sys_metadata>6e5703bec3073210ae057cec05013143</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check In Templates</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_scope_delete display_value="">070331d82bfe4355806d24ace2ac3869</sys_scope_delete>
+        <sys_update_name>sys_ui_module_6e5703bec3073210ae057cec05013143</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_6e5703bec3073210ae057cec05013143">6a5703bec3073210ae057cec05013154</sys_update_version>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-20 04:11:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

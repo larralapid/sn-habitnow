@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="a3e3de6fc3833210ae057cec05013151" sys_domain="global" table="x_1781956_habitnow_check_in_template" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-20 03:54:33</sys_created_on>
+            <sys_id>27e312a3c3c33210ae057cec0501311b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-20 03:54:33</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-20 03:54:33</sys_created_on>
+            <sys_id>6fe312a3c3c33210ae057cec0501311c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-20 03:54:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>2</position>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-20 03:54:33</sys_created_on>
+            <sys_id>ebe312a3c3c33210ae057cec0501311d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-20 03:54:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-20 03:54:33</sys_created_on>
+            <sys_id>6be312a3c3c33210ae057cec0501311e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-20 03:54:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owner</element>
+            <position>4</position>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-20 03:54:33</sys_created_on>
+            <sys_id>e7e312a3c3c33210ae057cec0501311f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-20 03:54:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-20 03:54:33</sys_created_on>
+            <sys_id>67e312a3c3c33210ae057cec05013120</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-20 03:54:33</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1781956_habitnow_check_in_template</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-20 03:54:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3e3de6fc3833210ae057cec05013151</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1781956_habitnow_check_in_template</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+            <sys_update_name>sys_ui_section_a3e3de6fc3833210ae057cec05013151</sys_update_name>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-20 03:54:33</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="habitNow">8b0483f6c3073210ae057cec05013194</application>
+        <file_path/>
+        <instance_id>e82881731b824e5432182f8dee4bcb12</instance_id>
+        <instance_name>dev270670</instance_name>
+        <name>sys_ui_section_a3e3de6fc3833210ae057cec05013151</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="a3e3de6fc3833210ae057cec05013151" sys_domain="global" table="x_1781956_habitnow_check_in_template" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>larra</sys_created_by><sys_created_on>2026-02-20 03:54:33</sys_created_on><sys_id>27e312a3c3c33210ae057cec0501311b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section><sys_updated_by>larra</sys_updated_by><sys_updated_on>2026-02-20 03:54:33</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>1</position><sys_created_by>larra</sys_created_by><sys_created_on>2026-02-20 03:54:33</sys_created_on><sys_id>6fe312a3c3c33210ae057cec0501311c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section><sys_updated_by>larra</sys_updated_by><sys_updated_on>2026-02-20 03:54:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>2</position><sys_created_by>larra</sys_created_by><sys_created_on>2026-02-20 03:54:33</sys_created_on><sys_id>ebe312a3c3c33210ae057cec0501311d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section><sys_updated_by>larra</sys_updated_by><sys_updated_on>2026-02-20 03:54:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>larra</sys_created_by><sys_created_on>2026-02-20 03:54:33</sys_created_on><sys_id>6be312a3c3c33210ae057cec0501311e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section><sys_updated_by>larra</sys_updated_by><sys_updated_on>2026-02-20 03:54:33</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>owner</element><position>4</position><sys_created_by>larra</sys_created_by><sys_created_on>2026-02-20 03:54:33</sys_created_on><sys_id>e7e312a3c3c33210ae057cec0501311f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section><sys_updated_by>larra</sys_updated_by><sys_updated_on>2026-02-20 03:54:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>5</position><sys_created_by>larra</sys_created_by><sys_created_on>2026-02-20 03:54:33</sys_created_on><sys_id>67e312a3c3c33210ae057cec05013120</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1781956_habitnow_check_in_template" sys_domain="global" view="Default view">a3e3de6fc3833210ae057cec05013151</sys_ui_section><sys_updated_by>larra</sys_updated_by><sys_updated_on>2026-02-20 03:54:33</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1781956_habitnow_check_in_template</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>larra</sys_created_by><sys_created_on>2026-02-20 03:54:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a3e3de6fc3833210ae057cec05013151</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1781956_habitnow_check_in_template</sys_name><sys_overrides/><sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package><sys_policy/><sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope><sys_update_name>sys_ui_section_a3e3de6fc3833210ae057cec05013151</sys_update_name><sys_updated_by>larra</sys_updated_by><sys_updated_on>2026-02-20 03:54:33</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-612756922</payload_hash>
+        <record_name>Check In Template</record_name>
+        <reverted_from/>
+        <source>eac48b3ac3073210ae057cec0501316e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-20 03:54:33</sys_created_on>
+        <sys_id>6be312a3c3c33210ae057cec05013130</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c792f60760000001</sys_recorded_at>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-20 03:54:33</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>2fe312a34fc332101a7d67b8991f132f</update_guid>
+        <update_guid_history>2fe312a34fc332101a7d67b8991f132f:-612756922,e7e312a30ac332108ecfb911ca0b9e1a:884826113</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-20 04:11:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>36e7ec7d64d84ad09979255ab7eedd04</sys_id>
+        <sys_metadata>a3e3de6fc3833210ae057cec05013151</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1781956_habitnow_check_in_template</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_parent display_value="">51e6473ac3073210ae057cec050131a4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_scope_delete display_value="">070331d82bfe4355806d24ace2ac3869</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a3e3de6fc3833210ae057cec05013151</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a3e3de6fc3833210ae057cec05013151">6be312a3c3c33210ae057cec05013130</sys_update_version>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-20 04:11:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
