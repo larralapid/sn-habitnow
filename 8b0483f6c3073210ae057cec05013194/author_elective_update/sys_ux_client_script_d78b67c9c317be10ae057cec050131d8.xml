@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Home default">6f251a27c3c33210ae057cec050131f7</macroponent>
+        <name>card_base_header_1/now_default/heading</name>
+        <preset/>
+        <required_translations>[]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+	return {
+	"label": @item.value.habit.displayValue,
+	"size": "md"
+};
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-25 02:31:45</sys_created_on>
+        <sys_id>d78b67c9c317be10ae057cec050131d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>card_base_header_1/now_default/heading</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_ux_client_script_d78b67c9c317be10ae057cec050131d8</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-25 02:31:45</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="habitNow">8b0483f6c3073210ae057cec05013194</application>
+        <file_path/>
+        <instance_id>e82881731b824e5432182f8dee4bcb12</instance_id>
+        <instance_name>dev270670</instance_name>
+        <name>sys_ux_client_script_d78b67c9c317be10ae057cec050131d8</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;controller_preset/&gt;&lt;includes/&gt;&lt;macroponent display_value="Home default"&gt;6f251a27c3c33210ae057cec050131f7&lt;/macroponent&gt;&lt;name&gt;card_base_header_1/now_default/heading&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+	return {
+	"label": @item.value.habit.displayValue,
+	"size": "md"
+};
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;larra&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-02-25 02:31:45&lt;/sys_created_on&gt;&lt;sys_id&gt;d78b67c9c317be10ae057cec050131d8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;card_base_header_1/now_default/heading&lt;/sys_name&gt;&lt;sys_package display_value="habitNow" source="x_1781956_habitnow"&gt;8b0483f6c3073210ae057cec05013194&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="habitNow"&gt;8b0483f6c3073210ae057cec05013194&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_d78b67c9c317be10ae057cec050131d8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;larra&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-02-25 02:31:45&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1865144406</payload_hash>
+        <record_name>card_base_header_1/now_default/heading</record_name>
+        <reverted_from/>
+        <source>eac48b3ac3073210ae057cec0501316e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-25 02:31:45</sys_created_on>
+        <sys_id>d7e0b785c357be10ae057cec05013133</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c92a35b4c0000001</sys_recorded_at>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-25 02:31:45</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>97e0b785b357be101aa02f0bc276fb32</update_guid>
+        <update_guid_history>97e0b785b357be101aa02f0bc276fb32:-1865144406</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-25 02:33:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>12aa670caa1b42d8a827b10186a3b504</sys_id>
+        <sys_metadata>d78b67c9c317be10ae057cec050131d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>card_base_header_1/now_default/heading</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_scope_delete display_value="">070331d82bfe4355806d24ace2ac3869</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_d78b67c9c317be10ae057cec050131d8</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_d78b67c9c317be10ae057cec050131d8">d7e0b785c357be10ae057cec05013133</sys_update_version>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-25 02:33:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

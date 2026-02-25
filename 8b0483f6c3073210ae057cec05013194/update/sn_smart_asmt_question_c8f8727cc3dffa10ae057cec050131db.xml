@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_smart_asmt_question">
+    <sn_smart_asmt_question action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <allow_multiselect>false</allow_multiselect>
+        <assessment_template display_value="test asessment">6688b63cc3dffa10ae057cec05013146</assessment_template>
+        <attachment_mandatory>false</attachment_mandatory>
+        <columns_to_display/>
+        <condition/>
+        <data_type/>
+        <display_field>u_name</display_field>
+        <enable_attachment>false</enable_attachment>
+        <enable_justification>false</enable_justification>
+        <enable_preferred_answer>false</enable_preferred_answer>
+        <enable_response_automation>false</enable_response_automation>
+        <enable_time>false</enable_time>
+        <enable_visibility_condition>false</enable_visibility_condition>
+        <guidance_statement/>
+        <guidance_text/>
+        <justification_mandatory>false</justification_mandatory>
+        <label>habit</label>
+        <mandatory>false</mandatory>
+        <max_characters>1000</max_characters>
+        <maximum_number>1000</maximum_number>
+        <minimum_number>0</minimum_number>
+        <multiline>false</multiline>
+        <order>1</order>
+        <question_type display_value="Reference">0ad512cb7771211058119a372e5a99d2</question_type>
+        <readonly_response>false</readonly_response>
+        <response_layout>vertical</response_layout>
+        <section display_value="section">69d8bef8c3dffa10ae057cec050131a0</section>
+        <sys_class_name>sn_smart_asmt_question</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-24 03:48:39</sys_created_on>
+        <sys_id>c8f8727cc3dffa10ae057cec050131db</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>habit</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sn_smart_asmt_question_c8f8727cc3dffa10ae057cec050131db</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-24 03:51:55</sys_updated_on>
+        <table>x_1781956_habitnow_habit</table>
+    </sn_smart_asmt_question>
+    <sys_translated_text action="delete_multiple" query="documentkey=c8f8727cc3dffa10ae057cec050131db"/>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="936f3db8c39b7a10ae057cec050131d2" label="Habit M2M Tracker" max_length="40" name="x_1781956_habitnow_habit_m2m_tracker" type="collection">
+        <element choice="3" label="Frequency" max_length="40" name="frequency" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Daily" sequence="0" value="daily"/>
+                <element inactive_on_update="false" label="Weekly" sequence="1" value="weekly"/>
+                <element inactive_on_update="false" label="Ad Hoc" sequence="2" value="ad_hoc"/>
+            </choice>
+        </element>
+        <element label="Tracker" max_length="32" name="tracker" reference="x_1781956_habitnow_tracker" type="reference"/>
+        <element choice="3" label="Measurement type" max_length="40" name="measurement_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Count" sequence="2" value="count"/>
+                <element inactive_on_update="false" label="Duration" sequence="1" value="duration"/>
+                <element inactive_on_update="false" label="Once" sequence="0" value="once"/>
+            </choice>
+        </element>
+        <element display="true" dynamic_creation="true" label="Habit" max_length="32" name="habit" reference="x_1781956_habitnow_habit" reference_cascade_rule="restrict" type="reference"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="habit"/>
+        </index>
+        <index name="index2">
+            <element name="tracker"/>
+        </index>
+        <index name="index3">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

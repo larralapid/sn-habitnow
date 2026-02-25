@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_container_m2m_item_stream">
+    <sys_sg_item_stream_container_m2m_item_stream action="DELETE">
+        <item_stream display_value="Knowledge articles Item Stream">bbfb22e987521010420e5cdac5cb0b13</item_stream>
+        <item_stream_container display_value="Habit stream">d033c2f0c3db7a10ae057cec050131ac</item_stream_container>
+        <order/>
+        <sys_class_name>sys_sg_item_stream_container_m2m_item_stream</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-23 23:59:57</sys_created_on>
+        <sys_id>3d9446b4c3db7a10ae057cec05013120</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_sg_item_stream_container_m2m_item_stream_3d9446b4c3db7a10ae057cec05013120</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-23 23:59:57</sys_updated_on>
+    </sys_sg_item_stream_container_m2m_item_stream>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="habitNow">8b0483f6c3073210ae057cec05013194</application>
+        <file_path/>
+        <instance_id>e82881731b824e5432182f8dee4bcb12</instance_id>
+        <instance_name>dev270670</instance_name>
+        <name>sys_sg_item_stream_container_m2m_item_stream_3d9446b4c3db7a10ae057cec05013120</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_container_m2m_item_stream"><sys_sg_item_stream_container_m2m_item_stream action="INSERT_OR_UPDATE"><item_stream display_value="Knowledge articles Item Stream">bbfb22e987521010420e5cdac5cb0b13</item_stream><item_stream_container display_value="Habit stream">d033c2f0c3db7a10ae057cec050131ac</item_stream_container><order/><sys_class_name>sys_sg_item_stream_container_m2m_item_stream</sys_class_name><sys_created_by>larra</sys_created_by><sys_created_on>2026-02-23 23:59:57</sys_created_on><sys_id>3d9446b4c3db7a10ae057cec05013120</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package><sys_policy/><sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope><sys_update_name>sys_sg_item_stream_container_m2m_item_stream_3d9446b4c3db7a10ae057cec05013120</sys_update_name><sys_updated_by>larra</sys_updated_by><sys_updated_on>2026-02-23 23:59:57</sys_updated_on></sys_sg_item_stream_container_m2m_item_stream></record_update>]]></payload>
+        <payload_hash>-956147613</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>eac48b3ac3073210ae057cec0501316e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-23 23:59:57</sys_created_on>
+        <sys_id>799446b4c3db7a10ae057cec05013124</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c8cf2055c0000001</sys_recorded_at>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-23 23:59:57</sys_updated_on>
+        <type>Stream container M2M stream</type>
+        <update_guid>399446b4addb7a10d9e75b0476ae8123</update_guid>
+        <update_guid_history>399446b4addb7a10d9e75b0476ae8123:-956147613</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-24 00:00:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_stream_container_m2m_item_stream">sys_sg_item_stream_container_m2m_item_stream</sys_db_object>
+        <sys_id>12aefebadeb8493891768b561ea53319</sys_id>
+        <sys_metadata>3d9446b4c3db7a10ae057cec05013120</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_scope_delete display_value="">070331d82bfe4355806d24ace2ac3869</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_container_m2m_item_stream_3d9446b4c3db7a10ae057cec05013120</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_container_m2m_item_stream_3d9446b4c3db7a10ae057cec05013120">799446b4c3db7a10ae057cec05013124</sys_update_version>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-24 00:00:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

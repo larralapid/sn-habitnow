@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Home default">6f251a27c3c33210ae057cec050131f7</macroponent>
+        <name>repeater_2/repeatWith</name>
+        <preset/>
+        <required_translations>[]</required_translations>
+        <script><![CDATA[function evaluateProperty({api, helpers}) {
+  var startOfWeek = moment().startOf('week');
+  var days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  
+  var currentHabitId = api.context.repeater_1?.item?.value?.habit?.value;
+  var tasks = api.data.this_week_habit_task?.results || [];
+  
+  var weekDates = [];
+  
+  for (var i = 0; i < 7; i++) {
+    var date = moment(startOfWeek).add(i, 'days');
+    var dateStr = date.format('YYYY-MM-DD');
+    
+    var match = tasks.find(function(task) {
+      return task.tracked_habit?.value === currentHabitId && 
+             task.due_date?.value?.startsWith(dateStr);
+    });
+    
+    weekDates.push({
+      date: dateStr,
+      dayLabel: days[i],
+      taskSysId: match?.sys_id?.value || null,
+      state: match?.state?.value || null
+    });
+  }
+  
+  return weekDates;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-25 04:47:54</sys_created_on>
+        <sys_id>686b0411c35bbe10ae057cec0501312c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>repeater_2/repeatWith</sys_name>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_ux_client_script_686b0411c35bbe10ae057cec0501312c</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-25 04:48:36</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

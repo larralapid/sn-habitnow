@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="asmt_metric_type" version="2" view="default">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Assessment Metric Type - Default" name="asmt_metric_type" related_list="NULL" sys_domain="global" view="06eb8c15791232108bb291bde809c987">6ba5fa74c3dffa10ae057cec050131fd</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>asmt_metric_category.metric_type</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-24 03:34:25</sys_created_on>
+            <sys_id>aba5fa74c3dffa10ae057cec050131fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-24 03:34:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Assessment Metric Type - Default" name="asmt_metric_type" related_list="NULL" sys_domain="global" view="06eb8c15791232108bb291bde809c987">6ba5fa74c3dffa10ae057cec050131fd</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>asmt_assessable_record.metric_type</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-24 03:34:25</sys_created_on>
+            <sys_id>23a5fa74c3dffa10ae057cec050131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-24 03:34:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Assessment Metric Type - Default" name="asmt_metric_type" related_list="NULL" sys_domain="global" view="06eb8c15791232108bb291bde809c987">6ba5fa74c3dffa10ae057cec050131fd</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:d1b0487687131300fa0166d107cb0b39</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-24 03:34:25</sys_created_on>
+            <sys_id>a7a5fa74c3dffa10ae057cec050131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-24 03:34:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Assessment Metric Type - Default" name="asmt_metric_type" related_list="NULL" sys_domain="global" view="06eb8c15791232108bb291bde809c987">6ba5fa74c3dffa10ae057cec050131fd</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>asmt_assessment_instance.metric_type</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-24 03:34:25</sys_created_on>
+            <sys_id>2fa5fa74c3dffa10ae057cec050131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-24 03:34:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Assessment Metric Type - Default</calculated_name>
+            <filter/>
+            <name>asmt_metric_type</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>larra</sys_created_by>
+            <sys_created_on>2026-02-24 03:34:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ba5fa74c3dffa10ae057cec050131fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assessment Metric Type - Default</sys_name>
+            <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+            <sys_update_name>sys_ui_related_asmt_metric_type_default</sys_update_name>
+            <sys_updated_by>larra</sys_updated_by>
+            <sys_updated_on>2026-02-24 03:34:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default" name="default">06eb8c15791232108bb291bde809c987</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="HabitNOW">6adf0ae7c3833210ae057cec050131c4</app_config>
+        <description/>
+        <disable_auto_reflow>true</disable_auto_reflow>
+        <disable_interoperable>false</disable_interoperable>
+        <event_mappings>[
+    {
+        "eventMappingId": "UqTYFACxCEddsjjuwNbjMFiYft",
+        "isConfiguration": null,
+        "offRowStorageId": null,
+        "sourceEventApiName": "x_1781956_habitnow.MODAL_SELECTED_RELAY_6f251a27c3c33210ae057cec050131f7",
+        "sourceEventCorrelationId": null,
+        "sourceEventDefinition": {
+            "apiName": "x_1781956_habitnow.MODAL_SELECTED_RELAY_6f251a27c3c33210ae057cec050131f7",
+            "id": null,
+            "type": "UXEVENT"
+        },
+        "sourceEventSysId": null,
+        "targets": [
+            {
+                "broker": null,
+                "clientScript": null,
+                "clientTransformScript": null,
+                "clientTransformScriptUxValue": null,
+                "conditional": null,
+                "declarativeAction": null,
+                "event": {
+                    "apiName": "sn_canvas_core.MODAL_SELECTED",
+                    "payload": {
+                        "container": {
+                            "bare": {
+                                "binding": {
+                                    "address": [
+                                        "bare"
+                                    ]
+                                },
+                                "type": "EVENT_PAYLOAD_BINDING"
+                            },
+                            "displayOptions": {
+                                "binding": {
+                                    "address": [
+                                        "displayOptions"
+                                    ]
+                                },
+                                "type": "EVENT_PAYLOAD_BINDING"
+                            },
+                            "headerLabel": {
+                                "binding": {
+                                    "address": [
+                                        "headerLabel"
+                                    ]
+                                },
+                                "type": "EVENT_PAYLOAD_BINDING"
+                            },
+                            "modalId": {
+                                "binding": {
+                                    "address": [
+                                        "modalId"
+                                    ]
+                                },
+                                "type": "EVENT_PAYLOAD_BINDING"
+                            },
+                            "preserveState": {
+                                "binding": {
+                                    "address": [
+                                        "preserveState"
+                                    ]
+                                },
+                                "type": "EVENT_PAYLOAD_BINDING"
+                            },
+                            "showModal": {
+                                "binding": {
+                                    "address": [
+                                        "showModal"
+                                    ]
+                                },
+                                "type": "EVENT_PAYLOAD_BINDING"
+                            },
+                            "viewportElementId": {
+                                "binding": {
+                                    "address": [
+                                        "viewportElementId"
+                                    ]
+                                },
+                                "type": "EVENT_PAYLOAD_BINDING"
+                            },
+                            "viewportFields": {
+                                "binding": {
+                                    "address": [
+                                        "viewportFields"
+                                    ]
+                                },
+                                "type": "EVENT_PAYLOAD_BINDING"
+                            },
+                            "viewportParams": {
+                                "binding": {
+                                    "address": [
+                                        "viewportParams"
+                                    ]
+                                },
+                                "type": "EVENT_PAYLOAD_BINDING"
+                            },
+                            "viewportRoute": {
+                                "binding": {
+                                    "address": [
+                                        "viewportRoute"
+                                    ]
+                                },
+                                "type": "EVENT_PAYLOAD_BINDING"
+                            }
+                        },
+                        "type": "MAP_CONTAINER"
+                    },
+                    "sysId": "882eed4091382d3a41f1bb3f382ae089"
+                },
+                "operation": null,
+                "targetId": "MsBVVvRyDkDQjjRaaJSNCZQVggV",
+                "type": "EVENT"
+            }
+        ]
+    }
+]</event_mappings>
+        <macroponent display_value="Home default">6f251a27c3c33210ae057cec050131f7</macroponent>
+        <macroponent_config>{
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "label": {
+        "type": "JSON_LITERAL",
+        "value": ""
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    }
+}</macroponent_config>
+        <name>Home default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Header App Shell">9d9670b0c30320109fe6a0f89d40dd97</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Home">6b2592a3c3c33210ae057cec05013198</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>larra</sys_created_by>
+        <sys_created_on>2026-02-20 04:00:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bf255a27c3c33210ae057cec05013100</sys_id>
+        <sys_mod_count>35</sys_mod_count>
+        <sys_name>Home default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="habitNow" source="x_1781956_habitnow">8b0483f6c3073210ae057cec05013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="habitNow">8b0483f6c3073210ae057cec05013194</sys_scope>
+        <sys_update_name>sys_ux_screen_bf255a27c3c33210ae057cec05013100</sys_update_name>
+        <sys_updated_by>larra</sys_updated_by>
+        <sys_updated_on>2026-02-25 04:48:36</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=bf255a27c3c33210ae057cec05013100"/>
+</record_update>
